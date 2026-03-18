@@ -57,8 +57,7 @@ We may update this privacy policy occasionally. Any changes will be posted on th
 
 If you have questions about this privacy policy, please contact us:
 
-**Email:** support@mathkit.app
-**Website:** https://github.com/danmaxgroup/mathkit-app
+**Email:** dmgroupapps@gmail.com
 
 ---
 
